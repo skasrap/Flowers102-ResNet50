@@ -12,8 +12,7 @@ The approach utilizes transfer learning with a pre-trained ResNet 50 model. The 
 The model achieved a **92.43% Test Accuracy**.
 
 Visualizations generated during evaluation:
-* Loss Plot: `outputs/Loss_plot.png`
-* Accuracy Plot: `outputs/Acc_plot.png`
+* Loss & Accuracy Plot: `outputs/Res_plot.png`
 * Predictions vs True Labels: `outputs/pred_vs_true_plot.png`
 
 ## Repository Structure
