@@ -3,7 +3,7 @@ torchvision
 numpy
 scipy
 Pillow
-tqdm
 matplotlib
 scikit-learn
 keras
+tqdm
